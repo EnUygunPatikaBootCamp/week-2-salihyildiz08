@@ -1,0 +1,15 @@
+Soru 1) Pascal Case, Camel Case ve Snake Case Farkları
+
+Pascal Case : Her kelimenin ilk harfi büyük olarak yazılır.
+Camel Case  : Yazılacak değişken isminde ilk kelimenin baş harfi küçük sonradan gelen kelimelerin başharfleri büyük yazılır.
+Snake Case  : Kelimeler tamamen küçük harf ile yazılır. Ancak her kelime arasına alt çizgi(_) konulur.
+
+Farkları yukarıda açıklamada belli olmaktadır.
+
+Soru 2) Tail, Cat, Sudo, Touch ve Mkdir Linux Komutları Nedir?
+
+Tail  : Bir dosyanın sondan belirli sayıda satırını görüntülemek için kullanılır.
+Cat   : Standart çıktı ekranında dosyalar yaratmanıza, birleştirmenize veya bastırmanıza izin verir.
+Sudo  : Normal kullanıcıların sistemde yönetici yetkisi gerektiren işlemleri yapabilmesi için kullanılan bir programdır.
+Touch : Var olan dosyanın zaman damgasını değiştirir, dosya yoksa yeni bir boş dosya oluşturur.
+Mkdir : Yeni bir dizin oluşturmak için kullanılır.
